@@ -1,0 +1,19 @@
+#emailTextField, #passwordTextField, #nameTextField, #ageTextField {
+    -fx-pref-height: 40px;
+    -fx-font-size: 14px;
+    -fx-border-color: #cccccc;
+    -fx-border-radius: 8px;
+    -fx-background-radius: 8px;
+    -fx-background-color: #ffffff;
+}
+
+#signInButton, #registerButton, #writeButton, #readButton {
+    -fx-font-size: 14px;
+    -fx-pref-width: 120px;
+    -fx-pref-height: 40px;
+    -fx-background-color: #0078d7;
+    -fx-text-fill: white;
+    -fx-border-radius: 8px;
+    -fx-background-radius: 8px;
+    -fx-font-weight: bold;
+}
